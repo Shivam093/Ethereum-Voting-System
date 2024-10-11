@@ -47,7 +47,7 @@ The "Blockchain-based Decentralized E-Voting System" ensures secure, anonymous i
 1. Install [Ganache](https://www.trufflesuite.com/ganache) and [Truffle](https://www.trufflesuite.com/truffle).
 2. Clone the repository.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shivam093/Ethereum-Voting-System.git
 
 3. Install dependencies
    ```bash
@@ -59,7 +59,7 @@ The "Blockchain-based Decentralized E-Voting System" ensures secure, anonymous i
    
 5. Access the admin panel to create an election, and voters can register via the MetaMask extension.
 
-##Future Enhancements
+## Future Enhancements
 
 
 - **Email verification**: For voter validation and vote confirmations.
