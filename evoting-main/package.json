@@ -1,0 +1,11 @@
+{
+  "name": "evoting-main",
+  "version": "1.0.0",
+  "description": "A decentralized voting system using blockchain based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
